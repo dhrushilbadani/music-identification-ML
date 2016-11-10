@@ -1,0 +1,6 @@
+*.mp3
+coversongs/covers32k/*
+*.npy
+*.pkl
+*.pyc
+Audio Hashprints Thesis Tsai.pdf
